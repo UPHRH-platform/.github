@@ -1,10 +1,10 @@
 # UP HRH Platform Overview
 
-Overall Objective and Users
+**Overall Objective and Users**
 
 The Uttar Pradesh State Medical Faculty (UPSMF) wants to set up an online platform to manage multiple functions regarding educational training, assessments, and job placement of allied healthcare professionals (AHPs) such as nurses, paramedical staff, lab technicians etc. The overall objective of the platform is to improve the quality of AHP medical education in the state, and eventually, improve the overall quality of healthcare delivery. 
 
-Key functions of the platform modules
+**Key functions of the platform modules**
 
 **1. [Rating and Affiliation](https://github.com/UPHRH-platform/Docs/blob/main/Core-PRD.md)** for regular verification and grading of institutes and enable transparent decision-making for prospective students during the admission process.
 
