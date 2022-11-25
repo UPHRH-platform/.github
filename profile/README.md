@@ -6,7 +6,7 @@ The Uttar Pradesh State Medical Faculty (UPSMF) aims to set up an online platfor
 
 **Key functions of the platform modules**
 
-**1. [Rating and Affiliation](https://github.com/UPHRH-platform/Docs/blob/main/Core-PRD.md)** for regular verification and grading of institutes and enable transparent decision-making for prospective students during the admission process.
+**1. [Rating and Affiliation](https://github.com/UPHRH-platform/docs/blob/main/PRD/Core-PRD.md)** for regular verification and grading of institutes and enable transparent decision-making for prospective students during the admission process.
 
 **2. Centralised Admissions** for prospective candidates looking to enrol in medical institutes for AHP courses (diploma / degree programs) to reduce the burden of institute-specific application process and remove discretion from the admissions process. 
 
